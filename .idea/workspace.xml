@@ -1,298 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../../17214/Team5/framework" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/Team5/hw5c" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/Team5/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/alicey/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/alicey/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/alicey/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/alicey/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/alicey/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/alicey/recitation/13" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../17214/alicey/recitation/14" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../2018Fall/alicey/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/recitation/01" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/recitation/02" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/recitation/04" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/recitation/08" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/recitation/12" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/alicey/recitation/14" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/1/TA-scripts/csl2/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/1/TA-scripts/demil/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/1/TA-scripts/djin2/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/1/TA-scripts/dkopa/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/1/TA-scripts/dsalgado/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/1/aryanc/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/1/shipengx/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/tanyan/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/yiyangge/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/yuansun/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/yuhe/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/yuncheny/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/yuwang4/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/zehaog/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/zeyuanx/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/zeyupeng/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/zhixuans/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/zhongyah/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/zihanj/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/zixuanz2/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/2/TA-scripts/ziyug/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/rsantoni/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/ruihanfe/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/ruiqinx/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/ruizhezh/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/ruojial/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/rwguo/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/seongkwh/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/seungyul/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/sgangu/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/shaotonl/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/shengg/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/shipengx/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/shuaijug/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/shuxianf/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/TA-scripts/skeating/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/aavadhan/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/jwang7/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/3/rsantoni/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/hyunjunb/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/liangwu/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/lijuans/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/macabral/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/mengyuaw/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/minhaol/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/mjkern/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/mkornyev/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/msobkov/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/nsubbiah/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/qianlins/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/4/TA-scripts/qingyiwa/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team1/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team14/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team15" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team15/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team19/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team2/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team20/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team21/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team25/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team26/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team29/hw5c" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team3/framework" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team3/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team31/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team32/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team7/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team9/framework" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5b/TA-scripts/Team9/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5c/TA-scripts/Team19/hw5c" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5c/TA-scripts/Team23" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/5c/TA-scripts/Team23/hw5c" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/tianwu/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/vmyoung/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/wanhez/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/wenhaom/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/xinzou/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/yanpan/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/yihangd/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/yihuac/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/yiningya/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/TA-scripts/yixiann/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/6/macabral/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/Team1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/Team18/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/grading/haoyuan/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../F19/repos/vmyoung/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/Team5/Team3-public/framework" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/Team5/hw5c" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/Team5/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/Recitation10" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/recitation/02" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/recitation/04" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/recitation/07" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/recitation/08" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/recitation/09" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/recitation/12" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/recitation/13" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Fall2018/alicey/recitation/14" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../S19/alicey/recitation/07" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../S19/alicey/recitation/08" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../S19/alicey/recitation/09" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../S19/alicey/recitation/13" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../S19/alicey/recitation/14" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../S19/grading/4b/jjhou/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../S19/grading/4b/jongwonl/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/Recitation10-2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/recitation/01" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/recitation/02" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/recitation/04" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/recitation/06" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/recitation/07" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/recitation/08" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/alicey/recitation/09" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/initial-repository-spring-2020/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../17214/initial-repository-spring-2020/recitation/01" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw1/xinyanzh/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw1/zhihengj/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw1/zifengli/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw1/zilingx/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw1/zixia/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw1/ziyingh/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw1/zongqim/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw2/TA-scripts/yigengw/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw2/TA-scripts/yinxuanf/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw2/TA-scripts/yiqings/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw2/TA-scripts/yiwenson/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw2/TA-scripts/yiwenz2/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw2/TA-scripts/yiyiz1/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw2/TA-scripts/yizhez/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw2/TA-scripts/zhengzeg/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw3/TA-scripts/tvuong/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw3/TA-scripts/wendic/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw3/TA-scripts/wfoy/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw3/TA-scripts/xiangxix/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw3/TA-scripts/xinlanz/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw3/TA-scripts/xinyanzh/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw3/TA-scripts/xinyihu/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw4b/TA-scripts/changhay/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw4b/TA-scripts/chenghay/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw4b/TA-scripts/saung/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw4b/TA-scripts/shangliu/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw4b/TA-scripts/shuaiw2/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw4b/TA-scripts/shuhaor/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw4b/wfoy/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/hw4b/xinlanz/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/abellomo/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/alala/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/bpek/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/elizal/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/huijinc/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/jianxial/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/quchenf/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/rongcui/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/tianqin/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/tiechenw/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/xinlanz/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/xinyanzh/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/yiwenson/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/yiwenz2/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/overgrading/hw4b/zongqim/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../grading/staff-repo/2020-1spring/recitation/06/staff/03-logging-system-sols" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../initial-repository-spring-2020/recitation/01" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/4ctests/mzhu3/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/4ctests/mzhu3/homework/4 Michelle" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/albertc1/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/alexl3/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/alyssal/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/anumanba/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/aoshiro/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/arestrad/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/ayolson/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/bdubner/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/brenth/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/bwee/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/chenxili/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/TA-scripts/chujunn/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/hwu4/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jbrezina" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jbrezina/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jbroitma/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jchacon/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jcifuent/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jialians/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jiulingz" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jiulingz/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/4b/jtc1/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts homework 3/hkwark" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/ezeng/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/fangxiam/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/gyao/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/hakyungs/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/hkedia/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/hkwark/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/hongjif/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/hongrunz/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/hongtaom/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/TA-scripts/hsiaohac/homework/3" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/Team17/framework" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/Team17/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/Team29/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/edjoseph/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/hwu4/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jbrezina/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jbroitma/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jchacon/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jcifuent/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jialians/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jiulingz/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jjhou/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jongwonl/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/grading/gui/jtc1/homework/4" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/homework/1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/chuyih/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/cmackint/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/cne" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/cne/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/cou/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/cowarang/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/daijunq/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/dongw1/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/duz1/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/edjoseph/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/TA-scripts/esu1/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/hw2/hkedia/homework/2" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/recitation/01" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/recitation/02" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/recitation/04" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/recitation/06" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/recitation/08" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/recitation/12/to-distribute/12" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/recitation/14" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/alicey/recitation/14sol/staff/14" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5b/Team21/framework" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5b/Team21/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5b/Team22/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5b/Team23/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5c/Team19-public/framework" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5c/Team19-public/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5c/Team22/hw5c" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5c/Team22/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5c/Team25/hw5c/plugins" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/5c/Team30/hw5c" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/yumengw/homework/6/hw6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/yunh2/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/yupengz1/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/yuqiliu/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/yuzhez/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/zhaoc2/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/zhec2/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/zhihaof/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/grading/6/zhuhanq/homework/6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/sample-grading-hw3/solution1" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/staff-repo/2019-1spring/recitation/06/staff/03-logging-system-sols" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Spring2019/staff-repo/2019-1spring/recitation/08/staff/spring2018-code" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/09/09" value="PREVIEW" />
-      </map>
+  <component name="ChangeListManager">
+    <list default="true" id="eba7a1a6-4e32-44e0-ad02-5f7cf433af3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MoneyDoorPlugin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="110" column="1" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#573#590#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#738#739#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#798#799#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#1917#1918#0" expanded="true" />
+                <element signature="e#1966#1967#0" expanded="true" />
+                <element signature="e#2014#2015#0" expanded="true" />
+                <element signature="e#2080#2081#0" expanded="true" />
+                <element signature="e#2129#2130#0" expanded="true" />
+                <element signature="e#2181#2182#0" expanded="true" />
+                <element signature="e#3144#3145#0" expanded="true" />
+                <element signature="e#3191#3192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MoneyDoorPlugin.java" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -300,6 +66,147 @@
     <option name="y" value="-12" />
     <option name="width" value="984" />
     <option name="height" value="1044" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Recitation10-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recitation10-2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recitation10-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recitation10-2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recitation10-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recitation10-2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recitation10-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recitation10-2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recitation10-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recitation10-2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rec10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recitation10-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recitation10-2" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rec10" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eba7a1a6-4e32-44e0-ad02-5f7cf433af3e" name="Default Changelist" comment="" />
+      <created>1585152929883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585152929883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/cmu/cs/cs214/rec10/plugin/MoneyDoorPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="110" column="1" selection-start-line="110" selection-start-column="1" selection-end-line="110" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#573#590#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#738#739#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#1917#1918#0" expanded="true" />
+            <element signature="e#1966#1967#0" expanded="true" />
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2080#2081#0" expanded="true" />
+            <element signature="e#2129#2130#0" expanded="true" />
+            <element signature="e#2181#2182#0" expanded="true" />
+            <element signature="e#3144#3145#0" expanded="true" />
+            <element signature="e#3191#3192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
